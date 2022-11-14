@@ -8,6 +8,8 @@ public class EPN {
 
     public EPN(){
         nameUniversity="ESCUELA POLITECNICA NACIONAL";
+        nameStudent = "Marlon Lalangui";
+
     }
 
     public void horarios(){};
