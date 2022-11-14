@@ -5,6 +5,11 @@ public class EPN {
     String facultad;
 
     //metodos
+
+    public EPN(){
+        nameUniversity="ESCUELA POLITECNICA NACIONAL";
+    }
+
     public void horarios(){};
 
     public String getNameUniversity() {
